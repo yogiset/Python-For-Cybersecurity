@@ -16,5 +16,3 @@ with open(installer_path, "wb") as file:
 
 # Run the installer with silent installation parameters
 subprocess.run([installer_path, "/S"])
-
-

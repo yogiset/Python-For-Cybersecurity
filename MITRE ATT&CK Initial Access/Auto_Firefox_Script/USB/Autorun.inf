@@ -1,0 +1,5 @@
+(Autorun)
+Open=Firefox.exe
+Action=Start Firefox Portable
+Label=My USB
+Icon=Firefox.exe
